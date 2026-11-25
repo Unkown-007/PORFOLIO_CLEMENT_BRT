@@ -1,10 +1,12 @@
 # Clément Berton — Étudiant en cybersécurité
 
-> 2e année de Bachelor Ingénierie & Cybersécurité à l'EFREI · Je recherche un **stage en cybersécurité du 28 avril au 18 juin 2027** (8 semaines)
+> 2e année de Bachelor Ingénierie & Cybersécurité à l'EFREI · Je recherche un **stage en cybersécurité du 28 avril au 18 juin 2027** (8 semaines), puis une **alternance dès septembre 2027** (2 semaines en entreprise / 1 semaine à l'école)
 
 ---
 
-## Recherche de stage
+## Recherche de stage et d'alternance
+
+### Stage
 
 | | |
 |---|---|
@@ -13,6 +15,15 @@
 | **Rythme** | 35 h par semaine, temps plein, sur site |
 | **Lieu** | Île-de-France |
 | **Cadre** | Stage non rémunéré, convention signée par l'EFREI avant le premier jour |
+
+### Alternance
+
+| | |
+|---|---|
+| **Domaine** | Cybersécurité |
+| **Début** | Septembre 2027 |
+| **Rythme** | 2 semaines en entreprise / 1 semaine à l'école |
+| **Lieu** | Île-de-France |
 
 Missions qui m'intéressent : audit de sécurité et tests d'intrusion, sécurité des réseaux et des systèmes, supervision et détection des menaces (SOC), automatisation de tâches de sécurité en Python.
 
